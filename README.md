@@ -30,3 +30,11 @@ El proyecto tiene 3 partes bien diferenciadas:
    <p><i>Tecnologías y frameworks</i>: PHP.  En el futuro está API estará alojada en Microsoft Azure.</p>
   </li>
 </ul>
+
+# Sponsor
+![alt eventicrea](https://eventicrea.es/wp-content/uploads/2017/01/eventicrea_logo-1.jpg?raw=true "eventiCrea")
+
+<strong>eventicrea</strong> es una empresa de organización de eventos corporativos y sociales que está siendo pionera en la implementación de este novedoso servicios en sus clientes.
+
+# Prueba beta-cerrada
+¿Quieres probar el servicio?
