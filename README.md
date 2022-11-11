@@ -1,6 +1,8 @@
 # Proyecto easyCustomerFeedback
 <strong><i>Por Fran Gámez</i></strong>
 
+![alt EasyCustomerFeedback Project](annotated_image-1024x683.jpg?raw=true "Easy Customer Feedback")
+
 <p><strong>EasyCustomerFeedback </strong>es un nuevo <strong>proyecto de reciente creación</strong> que tiene como objetivo permitir a cualquier empresa o persona organizadora de cualquier tipo de evento recopilar información de sus clientes basadas en gestos a través de un dispositivo de bajo coste.</p>
 
 <p>El sistema es capaz de reconocer en <strong>tiempo real</strong> los gestos de las personas que pasan por delante de una cámara, estimar si es un gesto de aprobación o desaprobación e incluso predecir el género, edad y el estado de ánimo.  Toda la información inferida en tiempo real <strong>se almacena en la nube</strong> para su posterior consulta y explotación.</p>
