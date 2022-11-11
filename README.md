@@ -38,3 +38,7 @@ El proyecto tiene 3 partes bien diferenciadas:
 
 # Prueba beta-cerrada
 ¿Quieres probar el servicio?
+
+Ahora puedes probar el servicios en una máquina <strong>Windows</strong> o <strong>Mac</strong> con webcam y conexión a internet. En el siguiente enlace puedes encontrar toda la información necesaria para darte de alta y configurar tu equipo de forma rápida y sencilla.
+
+[Prueba el servicio EasyCustomerFeedback](https://eventicrea.es/proyecto-easycustomerfeedback/)
