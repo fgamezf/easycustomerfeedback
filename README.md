@@ -39,6 +39,11 @@ El proyecto tiene 3 partes bien diferenciadas:
 # Prueba beta-cerrada
 ¿Quieres probar el servicio?
 
-Ahora puedes probar el servicios en una máquina <strong>Windows</strong> o <strong>Mac</strong> con webcam y conexión a internet. En el siguiente enlace puedes encontrar toda la información necesaria para darte de alta y configurar tu equipo de forma rápida y sencilla.
+Ahora puedes probar el servicios directamente desde tu navegador web o en una máquina <strong>Windows</strong> o <strong>Mac</strong> con webcam y conexión a internet. En el siguiente enlace puedes encontrar toda la información necesaria para darte de alta y configurar tu equipo de forma rápida y sencilla.
 
-[Prueba el servicio EasyCustomerFeedback](https://eventicrea.es/proyecto-easycustomerfeedback/)
+<strong>Actualización:</strong> El proyecto EasyCustomerFeedback ahora es <strong>[Gestualy](https://gestuayly.com)</strong>.
+
+
+![alt gestualy](https://gestualy.com/wp-content/uploads/2023/01/logo.png?raw=true "Gestualy")
+
+[Prueba el servicio de votación por gestos con Gestualy de forma gratuita](https://gestualycom)
